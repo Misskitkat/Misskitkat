@@ -1,24 +1,28 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/Misskitkat?label=Followers&style=flat-square)](https://github.com/Misskitkat)
+
+# Katie Boscombe (@Misskitkat)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hi, I'm Katie! I'm a Computer Science and Graphic Design student at Bridgewater State University, focusing on AI, Python development, and Java programming.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: United States
+- 🎓 Education: Bridgewater State University
+- 📅 Coding Since: 2020
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🤖 [MATH399P2](https://github.com/Misskitkat/MATH399P2) — AI visualization project using Starcoder from Hugging Face (Python)
+- 📚 [COMP151_143_001_002_S25](https://github.com/Misskitkat/COMP151_143_001_002_S25) — Python course work and resources (Python)
+- 🔄 [COMP430_Project3_KatieB](https://github.com/Misskitkat/COMP430_Project3_KatieB) — Sliding window protocol implementation (Java)
+
+## GitHub Stats
+- 📊 Total Repositories: 28 (7 public, 21 private)
+- 👥 Community: 1 follower, following 2
+- 🎯 Active Since: January 27, 2022
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, Java
+- 🔭 Focus: Artificial Intelligence, Computer Science
+- 🌟 Latest Work: AI Visualizations, Data Structures, Networking Protocols
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
